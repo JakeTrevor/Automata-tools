@@ -1,0 +1,8 @@
+this machine does not have a starting state
+
+read odd:
+	0 => read even
+
+(read even): 
+	1 => read odd
+

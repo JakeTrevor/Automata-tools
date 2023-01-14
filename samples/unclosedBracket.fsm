@@ -1,0 +1,10 @@
+a Machine which acceptions even binary numbers (not including the empty string)
+
+=> read odd
+
+read odd:
+	0 => read even
+
+read even): 
+	1 => read odd
+

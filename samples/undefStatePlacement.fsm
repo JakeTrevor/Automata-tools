@@ -1,0 +1,9 @@
+take in bit strings
+accept even strings
+not including the empty string
+
+=> odd
+
+odd:
+    0=>even
+
